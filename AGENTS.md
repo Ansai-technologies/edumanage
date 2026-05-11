@@ -167,7 +167,7 @@ Do not invent rules not yet documented.
 
 Backend: edumanage-api.onrender.com
 Frontend: edumanage.co.ke (Cloudflare Pages)
-Database: PostgreSQL on Render
+Database: PostgreSQL on Supabase
 Storage: Cloudflare R2
 DNS: Cloudflare
 
