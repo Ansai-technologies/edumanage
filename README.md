@@ -24,6 +24,11 @@ If EduManage went offline for a week, the schools
 depending on it would feel it in daily operations.
 That is the standard it is built to.
 
+> **Note (2026-09-23):** offline capability is the Labs track's first build
+> milestone — no offline/sync code exists in this repo yet. Customer-facing
+> copy must not claim it as shipped until the Labs build demonstrates sync
+> behavior. See `docs/differentiation-brief.md`.
+
 ---
 
 ## Reading order for new engineers
